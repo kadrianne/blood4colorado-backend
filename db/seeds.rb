@@ -31,3 +31,14 @@ uc2 = Location.create(
     source: "https://www.uchealth.org/locations/garth-englund-blood-donation-center-fort-collins/"
 )
 
+v1 = Location.create(
+    name: "UCHealth Garth Englund Blood Center - Fort Collins",
+    location_type: "Building",
+    address: "1025 Pennock Place, Suite 104",
+    address2: "Fort Collins, CO 80524",
+    lat: 40.5754199,
+    lon: -105.0593296,
+    phone: "970.495.8965",
+    source: "https://www.uchealth.org/locations/garth-englund-blood-donation-center-fort-collins/"
+)
+
